@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ty/code/data_science/analysis/Titanic-Analysis/mlruns/232559823876104918/a5588641d6264177a2ce81e917137399/artifacts
+deleted_time: 1688480398189
+end_time: 1688480352344
+entry_point_name: ''
+experiment_id: '232559823876104918'
+lifecycle_stage: deleted
+run_id: a5588641d6264177a2ce81e917137399
+run_name: judicious-wasp-460
+run_uuid: a5588641d6264177a2ce81e917137399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688480350141
+status: 3
+tags: []
+user_id: ty

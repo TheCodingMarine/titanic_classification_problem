@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ty/code/data_science/analysis/Titanic-Analysis/mlruns/232559823876104918/3aac5bbada6840248a0ea9452d9ec25e/artifacts
+deleted_time: 1688480398200
+end_time: 1688480236487
+entry_point_name: ''
+experiment_id: '232559823876104918'
+lifecycle_stage: deleted
+run_id: 3aac5bbada6840248a0ea9452d9ec25e
+run_name: illustrious-bug-450
+run_uuid: 3aac5bbada6840248a0ea9452d9ec25e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688480232886
+status: 3
+tags: []
+user_id: ty

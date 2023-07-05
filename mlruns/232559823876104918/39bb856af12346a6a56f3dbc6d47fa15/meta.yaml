@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ty/code/data_science/analysis/Titanic-Analysis/mlruns/232559823876104918/39bb856af12346a6a56f3dbc6d47fa15/artifacts
+deleted_time: 1688480398204
+end_time: 1688431779109
+entry_point_name: ''
+experiment_id: '232559823876104918'
+lifecycle_stage: deleted
+run_id: 39bb856af12346a6a56f3dbc6d47fa15
+run_name: treasured-tern-193
+run_uuid: 39bb856af12346a6a56f3dbc6d47fa15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688431777541
+status: 3
+tags: []
+user_id: ty

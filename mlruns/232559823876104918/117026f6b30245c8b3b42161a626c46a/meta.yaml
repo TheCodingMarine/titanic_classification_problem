@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ty/code/data_science/analysis/Titanic-Analysis/mlruns/232559823876104918/117026f6b30245c8b3b42161a626c46a/artifacts
+deleted_time: 1688480398203
+end_time: 1688480095552
+entry_point_name: ''
+experiment_id: '232559823876104918'
+lifecycle_stage: deleted
+run_id: 117026f6b30245c8b3b42161a626c46a
+run_name: bright-midge-567
+run_uuid: 117026f6b30245c8b3b42161a626c46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688480092028
+status: 3
+tags: []
+user_id: ty

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ty/code/data_science/analysis/Titanic-Analysis/mlruns/232559823876104918/44d646f212ab48ef877d2e3a06b8b029/artifacts
+deleted_time: 1688491263201
+end_time: 1688491179585
+entry_point_name: ''
+experiment_id: '232559823876104918'
+lifecycle_stage: deleted
+run_id: 44d646f212ab48ef877d2e3a06b8b029
+run_name: judicious-bear-598
+run_uuid: 44d646f212ab48ef877d2e3a06b8b029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688491177901
+status: 3
+tags: []
+user_id: ty

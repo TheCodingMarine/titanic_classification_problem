@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ty/code/data_science/analysis/Titanic-Analysis/mlruns/232559823876104918/5ab3c8619e2d43cba457b23bee903ed0/artifacts
+end_time: 1688480361251
+entry_point_name: ''
+experiment_id: '232559823876104918'
+lifecycle_stage: active
+run_id: 5ab3c8619e2d43cba457b23bee903ed0
+run_name: salty-crow-435
+run_uuid: 5ab3c8619e2d43cba457b23bee903ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688480358164
+status: 3
+tags: []
+user_id: ty

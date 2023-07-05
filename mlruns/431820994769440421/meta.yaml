@@ -1,0 +1,6 @@
+artifact_location: file:///home/ty/code/data_science/analysis/Titanic-Analysis/mlruns/431820994769440421
+creation_time: 1688500931603
+experiment_id: '431820994769440421'
+last_update_time: 1688500931603
+lifecycle_stage: active
+name: Random Forest Classifier
