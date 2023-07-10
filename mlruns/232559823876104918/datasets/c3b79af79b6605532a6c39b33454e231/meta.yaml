@@ -1,7 +1,0 @@
-digest: edf2d0f4
-name: dataset
-profile: '{"num_rows": 891, "num_elements": 2673}'
-schema: null
-source: '{"tags": {"mlflow.user": "ty", "mlflow.source.name": "/home/ty/.virtualenvs/data_science/lib/python3.10/site-packages/ipykernel_launcher.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code
